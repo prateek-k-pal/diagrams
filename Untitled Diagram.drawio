@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T15:49:47.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="47YRcjGpWsayqXaOoUyC" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-04T16:55:34.261Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="-DBdhtQSi0zIB7MDxQC-" version="21.3.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2056" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,6 +158,9 @@
         </mxCell>
         <mxCell id="1dVEl70-BGwysHz6S1rm-53" value="Log out" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-570" y="990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1dVEl70-BGwysHz6S1rm-54" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Use or create an AI which takes input from the following questionnaire and detects the type of cancer -&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;ol&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Physical Examination or symptoms&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Analyze what can be seen in image based tests&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Blood test reports&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Biopsy (removing cell and growing a culture)&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;Histopathology and cytology tests&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;&lt;br&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="780" width="240" height="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
